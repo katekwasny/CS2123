@@ -1,0 +1,119 @@
+C:\Users\Kate\AppData\Local\Programs\Python\Python36\python.exe "C:/Users/Kate/Desktop/#FallSoph/CS-2123/Project 5/playlistTransform.py"
+Playlist 1
+["Ain't nothing wrong with that", 'Robert Randolph and the Family Band', 'Rock']
+["Couldn't stand the weather", 'Stevie Ray Vaughan', 'Blues']
+['Power to love', 'Jimi Hendrix', 'Rock']
+['Going in the right direction', 'Robert Randolph and the Family Band', 'Blues']
+['Red house', 'Jimi Hendrix', 'Blues']
+['Purple Haze', 'Jimi Hendrix', 'Rock']
+['My way down', 'Chris Duarte Group', 'Rock']
+['The thrill is gone', 'B.B. King', 'Blues']
+['The thrill is gone', 'Chris Duarte Group', 'Blues']
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Playlist 2
+['Texas flood', 'Stevie Ray Vaughan', 'Blues']
+["Ain't nothing wrong with that", 'Robert Randolph and the Family Band', 'Rock']
+["Couldn't stand the weather", 'Stevie Ray Vaughan', 'Blues']
+['San Francisco Bay Blues', 'Eric Clapton', 'Blues']
+['Going in the right direction', 'Robert Randolph and the Family Band', 'Blues']
+['Purple Haze', 'Jimi Hendrix', 'Rock']
+['Red house', 'Jimi Hendrix', 'Blues']
+['My way down', 'Chris Duarte Group', 'Rock']
+['The thrill is gone', 'Chris Duarte Group', 'Blues']
+['The thrill is gone', 'B.B. King', 'Blues']
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Comparing playlist similarity by song
+6  edits needed to turn playlist 1 into playlist 2
+Insert ['Texas flood', 'Stevie Ray Vaughan', 'Blues']
+Leave ["Ain't nothing wrong with that", 'Robert Randolph and the Family Band', 'Rock']
+Leave ["Couldn't stand the weather", 'Stevie Ray Vaughan', 'Blues']
+Replace ['Power to love', 'Jimi Hendrix', 'Rock'] with ['San Francisco Bay Blues', 'Eric Clapton', 'Blues']
+Leave ['Going in the right direction', 'Robert Randolph and the Family Band', 'Blues']
+Replace ['Red house', 'Jimi Hendrix', 'Blues'] with ['Purple Haze', 'Jimi Hendrix', 'Rock']
+Replace ['Purple Haze', 'Jimi Hendrix', 'Rock'] with ['Red house', 'Jimi Hendrix', 'Blues']
+Leave ['My way down', 'Chris Duarte Group', 'Rock']
+Replace ['The thrill is gone', 'B.B. King', 'Blues'] with ['The thrill is gone', 'Chris Duarte Group', 'Blues']
+Replace ['The thrill is gone', 'Chris Duarte Group', 'Blues'] with ['The thrill is gone', 'B.B. King', 'Blues']
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Comparing playlist similarity by genre
+3  edits needed to turn playlist 1 into playlist 2
+Delete ["Ain't nothing wrong with that", 'Robert Randolph and the Family Band', 'Rock']
+Leave ['Texas flood', 'Stevie Ray Vaughan', 'Blues']
+Leave ["Ain't nothing wrong with that", 'Robert Randolph and the Family Band', 'Rock']
+Leave ["Couldn't stand the weather", 'Stevie Ray Vaughan', 'Blues']
+Leave ['San Francisco Bay Blues', 'Eric Clapton', 'Blues']
+Insert ['Going in the right direction', 'Robert Randolph and the Family Band', 'Blues']
+Leave ['Purple Haze', 'Jimi Hendrix', 'Rock']
+Insert ['Red house', 'Jimi Hendrix', 'Blues']
+Leave ['My way down', 'Chris Duarte Group', 'Rock']
+Leave ['The thrill is gone', 'Chris Duarte Group', 'Blues']
+Leave ['The thrill is gone', 'B.B. King', 'Blues']
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Comparing playlist similarity by artist
+4  edits needed to turn playlist 1 into playlist 2
+Insert ['Texas flood', 'Stevie Ray Vaughan', 'Blues']
+Leave ["Ain't nothing wrong with that", 'Robert Randolph and the Family Band', 'Rock']
+Leave ["Couldn't stand the weather", 'Stevie Ray Vaughan', 'Blues']
+Replace ['Power to love', 'Jimi Hendrix', 'Rock'] with ['San Francisco Bay Blues', 'Eric Clapton', 'Blues']
+Leave ['Going in the right direction', 'Robert Randolph and the Family Band', 'Blues']
+Leave ['Purple Haze', 'Jimi Hendrix', 'Rock']
+Leave ['Red house', 'Jimi Hendrix', 'Blues']
+Leave ['My way down', 'Chris Duarte Group', 'Rock']
+Replace ['The thrill is gone', 'B.B. King', 'Blues'] with ['The thrill is gone', 'Chris Duarte Group', 'Blues']
+Replace ['The thrill is gone', 'Chris Duarte Group', 'Blues'] with ['The thrill is gone', 'B.B. King', 'Blues']
+['All I Want for Christmas is You', 'Mariah Carey', 'Pop']
+['All-Stars', 'Smash Mouth', 'Rock']
+['"thank u', 'next"', 'Ariana Grande', 'Pop']
+['BAD!', 'XXXTENTACION', 'Rap']
+['The Sounds of Silence', 'Simon and Garfunkel', 'Folk']
+['Trap Queen', 'Fetty Wap', 'Hip-Hop']
+['All I Want for Christmas is You', 'Mariah Carey', 'Pop']
+['"thank u', 'next"', 'Ariana Grande', 'Pop']
+['Santa Tell Me', 'Ariana Grande', 'Pop']
+['BAD!', 'XXXTENTACION', 'Rap']
+['All-Stars', 'Smash Mouth', 'Rock']
+['The Sounds of Silence', 'Simon and Garfunkel', 'Folk']
+['679', 'Fetty Wap', 'Hip-Hop']
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Comparing playlist similarity by song
+4  edits needed to turn playlist 1 into playlist 2
+Replace ['All-Stars', 'Smash Mouth', 'Rock'] with ['"thank u', 'next"', 'Ariana Grande', 'Pop']
+Replace ['"thank u', 'next"', 'Ariana Grande', 'Pop'] with ['Santa Tell Me', 'Ariana Grande', 'Pop']
+Leave ['BAD!', 'XXXTENTACION', 'Rap']
+Insert ['All-Stars', 'Smash Mouth', 'Rock']
+Leave ['The Sounds of Silence', 'Simon and Garfunkel', 'Folk']
+Replace ['Trap Queen', 'Fetty Wap', 'Hip-Hop'] with ['679', 'Fetty Wap', 'Hip-Hop']
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Comparing playlist similarity by genre
+3  edits needed to turn playlist 1 into playlist 2
+Replace ['All-Stars', 'Smash Mouth', 'Rock'] with ['"thank u', 'next"', 'Ariana Grande', 'Pop']
+Replace ['"thank u', 'next"', 'Ariana Grande', 'Pop'] with ['Santa Tell Me', 'Ariana Grande', 'Pop']
+Leave ['BAD!', 'XXXTENTACION', 'Rap']
+Insert ['All-Stars', 'Smash Mouth', 'Rock']
+Leave ['The Sounds of Silence', 'Simon and Garfunkel', 'Folk']
+Leave ['679', 'Fetty Wap', 'Hip-Hop']
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Comparing playlist similarity by artist
+3  edits needed to turn playlist 1 into playlist 2
+Replace ['All-Stars', 'Smash Mouth', 'Rock'] with ['"thank u', 'next"', 'Ariana Grande', 'Pop']
+Replace ['"thank u', 'next"', 'Ariana Grande', 'Pop'] with ['Santa Tell Me', 'Ariana Grande', 'Pop']
+Leave ['BAD!', 'XXXTENTACION', 'Rap']
+Insert ['All-Stars', 'Smash Mouth', 'Rock']
+Leave ['The Sounds of Silence', 'Simon and Garfunkel', 'Folk']
+Leave ['679', 'Fetty Wap', 'Hip-Hop']
+
+Process finished with exit code 0

@@ -1,0 +1,7 @@
+PS C:\Users\Kate\Documents\#FallSoph\CS-2123> cd 'c:\Users\Kate\Documents\#FallSoph\CS-2123'; ${env:PYTHONIOENCODING}='UTF-8'; ${env:PYTHONUNBUFFERED}='1'; ${env:PYTHONPATH}='c:\Users\Kate\.vscode\extensions\ms-python.python-2018.8.0\pythonFiles\experimental\ptvsd'; & 'python' '-m' 'ptvsd' '--host' 'localhost' '--port' '52697' 'c:\Users\Kate\Documents\#FallSoph\CS-2123\gs.py'
+
+{'amy': 'xavier', 'bertha': 'yancey', 'clare': 'zeus'}
+{'amy': 'xavier', 'bertha': 'yancey'}
+{'bertha': 'xavier', 'amy': 'zeus', 'clare': 'yancey'}
+
+PS C:\Users\Kate\Documents\#FallSoph\CS-2123>
